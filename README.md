@@ -1,6 +1,9 @@
 ## Projeto React Testing Library
 
-Quinto projeto do módulo de Front-end do curso de desenvolvimento web da Trybe. \
+> Quinto projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+
+**Contexto**
+
 Neste projeto voltamos a trabalhar com testes, desta vez usando a biblioteca React Testing Library (ou RTL) que é a biblioteca recomendada pela 
 documentação do React para essa finalidade.
 
@@ -18,9 +21,19 @@ Para cada requisito listado a seguir, deve-se escrever testes que garantam sua c
 - Criar mocks de APIs utilizando fetch.
 - Testar inputs.
 
+**Tecnologias utilizadas**
+
+- <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" align="center" height="35"/> - HTML</a> 
+- <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" align="center" height="35"/> - CSS</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/> - JavaScript</a>
+- <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" align="center" height="35"/> - React</a>
+- <a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" align="center" height="30"/> - React Router</a>
+- <a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" height="30" align="center"/> - React Testing Library</a>
+- <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" align="center" height="30"/> - Jest</a> 
+
 ---
 
-### Lista de requisitos propostos:
+### Lista de requisitos propostos pela Trybe:
 
 #### Obrigatórios
 
