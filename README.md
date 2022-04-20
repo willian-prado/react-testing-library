@@ -1,18 +1,17 @@
 ## Projeto React Testing Library
 
-> Quinto projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+> Quinto projeto do módulo de Front-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
-Neste projeto voltamos a trabalhar com testes, desta vez usando a biblioteca React Testing Library (ou RTL) que é a biblioteca recomendada pela 
-documentação do React para essa finalidade.
+Neste projeto o foco é novamente trabalhar com testes. Neste caso, foi utilizada a React Testing Library (ou RTL) que é a biblioteca recomendada pela documentação do React para o teste de componentes.
 
 **Objetivo do projeto**
 
 Utilizar [`Jest`](https://jestjs.io/) e [`React Testing Library`](https://testing-library.com/) para escrever os testes de uma Pokédex já implementada. 
 Para cada requisito listado a seguir, deve-se escrever testes que garantam sua corretude.
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
 - Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
 - Simular eventos com a React-Testing-Library em testes automatizados.
@@ -118,3 +117,6 @@ Para cada requisito listado a seguir, deve-se escrever testes que garantam sua c
     - Cliques alternados no `checkbox` devem adicionar e remover respectivamente o Pokémon da lista de favoritos;
     - O `label` do `checkbox` deve conter o texto `Pokémon favoritado?`;
 
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
